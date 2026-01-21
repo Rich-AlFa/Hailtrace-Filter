@@ -74,3 +74,8 @@ Launch Jupyter:
 Use the filtered CSV directly in your CRM, dialing tool, or print lists.
 
 Done! 🎯
+
+## 📈 Business Value
+
+This tool turns raw Hailtrace dumps into focused, high-intent lead lists quickly — perfect for roofing, insurance, contracting teams chasing hail-damaged properties. Save hours per storm event, reduce wasted knocks on low-value or irrelevant addresses, and get to qualified leads faster.
+
